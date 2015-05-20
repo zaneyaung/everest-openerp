@@ -1,0 +1,1 @@
+implementare openerp la everest ropack
